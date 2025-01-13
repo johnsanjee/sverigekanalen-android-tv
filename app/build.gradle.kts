@@ -50,7 +50,7 @@ dependencies {
     implementation(libs.androidx.tv.material)
     implementation(libs.androidx.lifecycle.runtime.ktx)
     implementation(libs.androidx.activity.compose)
-    implementation ("com.google.android.exoplayer:exoplayer:2.19.1")
+    implementation (libs.exoplayer)
     implementation(libs.okhttp)
     androidTestImplementation(platform(libs.androidx.compose.bom))
     androidTestImplementation(libs.androidx.ui.test.junit4)
