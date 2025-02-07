@@ -1,4 +1,6 @@
-package se.sverigekanalen
+@file:Suppress("DEPRECATION")
+
+package tv.sverigekanalen
 
 import android.content.Context
 import android.net.Uri
